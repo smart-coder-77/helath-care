@@ -37,7 +37,7 @@ To run the Patient Hub service locally, follow these steps:
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your_username/patient-hub-service.git
+git clone https://github.com/smart-coder-77/helath-care/tree/master.git
 Navigate to the project directory:
 bash
 Copy code
